@@ -1,0 +1,210 @@
+export const data = [
+  {
+    id: 1,
+    img: "../src/assets/air.png",
+
+    type: "Nike",
+    categoria: "Esporte e lazer",
+    genero: "Masculino",
+    estado: "Novo",
+    price: 200,
+    priceDiscount: 170,
+
+    title: "Queima de estoque 🔥",
+    description:
+      "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
+    buttonText: "Ver Ofertas",
+  },
+  {
+    id: 2,
+    img: "../src/assets/air.png",
+    title: "Nike Air",
+    type: "Nike",
+    categoria: "Esporte e lazer",
+    genero: "Masculino",
+    estado: "Novo",
+    price: 200,
+    priceDiscount: 120,
+    description:
+      "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
+  },
+  {
+    id: 3,
+    img: "../src/assets/air.png",
+    title: "Nike Air",
+    type: "Nike",
+    categoria: "Esporte e lazer",
+    genero: "Masculino",
+    estado: "Usado",
+    price: 200,
+    description:
+      "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
+  },
+  {
+    id: 4,
+    img: "../src/assets/air.png",
+    title: "Nike Air",
+    type: "Nike",
+    categoria: "Esporte e lazer",
+    genero: "Masculino",
+    estado: "Usado",
+    price: 200,
+    description:
+      "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
+  },
+  {
+    id: 5,
+    img: "../src/assets/k-swiss.png",
+
+    categoria: "Casual",
+    genero: "Feminino",
+    estado: "Novo",
+    type: "K-Swiss",
+    price: 230,
+    priceDiscount: 200,
+
+    title: "Elegância esportiva 🏆",
+    description:
+      "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
+    buttonText: "Descubra K-Swiss",
+  },
+  {
+    id: 6,
+    img: "../src/assets/k-swiss.png",
+    title: "K-Swiss V8",
+    categoria: "Casual",
+    genero: "Feminino",
+    estado: "Novo",
+    type: "K-Swiss",
+    price: 230,
+    description:
+      "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
+  },
+  {
+    id: 7,
+    img: "../src/assets/k-swiss.png",
+    title: "K-Swiss V8",
+    categoria: "Casual",
+    genero: "Feminino",
+    estado: "Usado",
+    type: "K-Swiss",
+    price: 230,
+    description:
+      "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
+  },
+  {
+    id: 8,
+    img: "../src/assets/k-swiss.png",
+    title: "K-Swiss V8",
+    categoria: "Casual",
+    genero: "Feminino",
+    estado: "Usado",
+    type: "K-Swiss",
+    price: 230,
+    description:
+      "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
+  },
+  {
+    id: 9,
+    img: "../src/assets/Adidas.png",
+    type: "Adidas",
+    categoria: "Utilitário",
+    genero: "Unisex",
+    estado: "novo",
+    price: 250,
+
+    title: "Estilo com conforto 👟",
+    description:
+      "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
+    buttonText: "Explorar Adidas",
+  },
+  {
+    id: 10,
+    img: "../src/assets/Adidas.png",
+    title: "Adidas",
+    type: "Adidas",
+    categoria: "Utilitário",
+    genero: "Unisex",
+    estado: "novo",
+    price: 250,
+    description:
+      "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
+  },
+  {
+    id: 11,
+    img: "../src/assets/Adidas.png",
+    title: "Adidas",
+    type: "Adidas",
+    categoria: "Utilitário",
+    genero: "Unisex",
+    estado: "Usado",
+    price: 250,
+    priceDiscount: 200,
+    description:
+      "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
+  },
+  {
+    id: 12,
+    img: "../src/assets/Adidas.png",
+    title: "Adidas",
+    type: "Adidas",
+    categoria: "Utilitário",
+    genero: "Unisex",
+    estado: "Usado",
+    price: 250,
+    priceDiscount: 200,
+    description:
+      "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
+  },
+  {
+    id: 13,
+    img: "../src/assets/Puma.png",
+
+    type: "Puma",
+    categoria: "Corrida",
+    genero: "Feminino",
+    estado: "Novo",
+    price: 180,
+
+    title: "Movimento e atitude 🐆",
+    description:
+      "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
+    buttonText: "Ver Puma",
+  },
+  {
+    id: 14,
+    img: "../src/assets/Puma.png",
+    title: "Puma Puma",
+    type: "Puma",
+    categoria: "Corrida",
+    genero: "Feminino",
+    estado: "Novo",
+    price: 180,
+    description:
+      "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
+  },
+  {
+    id: 15,
+    img: "../src/assets/Puma.png",
+    title: "Puma Puma",
+    type: "Puma",
+    categoria: "Corrida",
+    genero: "Feminino",
+    estado: "Usado",
+    price: 180,
+    description:
+      "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
+  },
+  {
+    id: 16,
+    img: "../src/assets/Puma.png",
+    title: "Puma Puma",
+    type: "Puma",
+    categoria: "Corrida",
+    genero: "Feminino",
+    estado: "Usado",
+    price: 180,
+    description:
+      "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
+  },
+];

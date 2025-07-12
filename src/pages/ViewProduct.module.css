@@ -1,0 +1,94 @@
+.productViewPage {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.breadcrumb {
+  margin-bottom: 20px;
+  color: var(--primary);
+}
+
+.breadcrumbLink {
+  text-decoration: none;
+  color: var(--primary);
+  margin-right: 5px;
+}
+
+.breadcrumbLink:hover {
+  color: var(--primary);
+  font-weight: bold;
+}
+
+.productInfo {
+  flex: 1;
+}
+
+.priceInfo {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.currentPrice {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.originalPrice {
+  text-decoration: line-through;
+  margin-left: 10px;
+  color: #999;
+}
+
+.ratingInfo {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #888;
+}
+
+.description {
+  margin: 20px 0;
+}
+
+.sizeSelector,
+.colorSelector {
+  margin: 20px 0;
+}
+
+.sizeButtons button,
+.colorButtons button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #E2E3FF;
+  color: black;
+  cursor: pointer;
+}
+
+.colorButtons button {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.relatedProducts {
+  margin-top: 40px;
+}
+
+.relatedProductsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.link {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.link:hover {
+  font-weight: bold;
+}

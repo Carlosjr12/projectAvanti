@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.header a {
+  text-decoration: none;
+  font-size: 1.8rem;
+  color: var(--primary);
+  transition: all 0.1s ease-in-out;
+  font-weight: 600;
+}
+
+.header a:hover {
+  color: var(--primary-dark);
+}
+
+.menu {
+  display: flex;
+  gap: 1.5rem;
+  text-decoration: none;
+}

@@ -1,0 +1,21 @@
+.thumbnail {
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.thumbnail:hover {
+  border-color: var(--primary);
+  box-shadow: 0 4px 5px var(--primary);
+  transform: translateY(-5px);
+}
+
+.thumbnail.active {
+  border-color: var(--primary);
+  box-shadow: 0 4px 5px var(--primary);
+  transform: translateY(-5px);
+}
+
+.gallery {
+  max-width: 40rem;
+}
