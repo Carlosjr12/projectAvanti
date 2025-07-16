@@ -1,4 +1,3 @@
-import React from "react";
 import { data as products } from "../services/tenisData";
 import { Link } from "react-router-dom";
 
