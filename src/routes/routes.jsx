@@ -11,7 +11,6 @@ const AppRoutes = () => {
     { path: "/product", element: <ListingPage /> },
     { path: "/product/:id", element: <ViewProduct /> },
     { path: "/produtos", element: <ProductList /> },
-    { path: "/products/:id", element: <ViewProduct /> },
     { path: "/meus-pedidos", element: <MeusPedidos /> },
   ]);
 
