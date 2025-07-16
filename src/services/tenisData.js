@@ -14,10 +14,7 @@ export const data = [
     description:
       "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
     buttonText: "Ver Ofertas",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0001",
->>>>>>> master
   },
   {
     id: 2,
@@ -31,10 +28,7 @@ export const data = [
     priceDiscount: 120,
     description:
       "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0002",
->>>>>>> master
   },
   {
     id: 3,
@@ -47,10 +41,7 @@ export const data = [
     price: 200,
     description:
       "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0003",
->>>>>>> master
   },
   {
     id: 4,
@@ -63,10 +54,7 @@ export const data = [
     price: 200,
     description:
       "Descontos imperdíveis em modelos clássicos. Aproveite enquanto durar!",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0004",
->>>>>>> master
   },
   {
     id: 5,
@@ -83,10 +71,7 @@ export const data = [
     description:
       "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
     buttonText: "Descubra K-Swiss",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0005",
->>>>>>> master
   },
   {
     id: 6,
@@ -99,10 +84,7 @@ export const data = [
     price: 230,
     description:
       "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0006",
->>>>>>> master
   },
   {
     id: 7,
@@ -115,10 +97,7 @@ export const data = [
     price: 230,
     description:
       "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0007",
->>>>>>> master
   },
   {
     id: 8,
@@ -131,10 +110,7 @@ export const data = [
     price: 230,
     description:
       "K-Swiss traz um visual sofisticado para quem busca estilo e qualidade.",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0008",
->>>>>>> master
   },
   {
     id: 9,
@@ -149,10 +125,7 @@ export const data = [
     description:
       "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
     buttonText: "Explorar Adidas",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0009",
->>>>>>> master
   },
   {
     id: 10,
@@ -165,10 +138,7 @@ export const data = [
     price: 250,
     description:
       "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0010",
->>>>>>> master
   },
   {
     id: 11,
@@ -182,10 +152,7 @@ export const data = [
     priceDiscount: 200,
     description:
       "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0011",
->>>>>>> master
   },
   {
     id: 12,
@@ -199,10 +166,7 @@ export const data = [
     priceDiscount: 200,
     description:
       "A nova linha Adidas chegou! Designs modernos e máximo desempenho.",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0012",
->>>>>>> master
   },
   {
     id: 13,
@@ -218,10 +182,7 @@ export const data = [
     description:
       "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
     buttonText: "Ver Puma",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0013",
->>>>>>> master
   },
   {
     id: 14,
@@ -234,10 +195,7 @@ export const data = [
     price: 180,
     description:
       "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0014",
->>>>>>> master
   },
   {
     id: 15,
@@ -250,10 +208,7 @@ export const data = [
     price: 180,
     description:
       "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0015",
->>>>>>> master
   },
   {
     id: 16,
@@ -266,9 +221,6 @@ export const data = [
     price: 180,
     description:
       "Puma combina inovação e ousadia em cada passo. Confira os modelos!",
-<<<<<<< HEAD
-=======
     ref: "RF-6547-0016",
->>>>>>> master
   },
 ];
