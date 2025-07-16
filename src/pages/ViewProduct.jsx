@@ -69,10 +69,17 @@ const ViewProduct = () => {
       {/* 🧭 Navegação breadcrumb */}
       <nav className={styles.breadcrumb}>
         <Link className={styles.breadcrumbLink} to="/">
+<<<<<<< HEAD
           Home
         </Link>{" "}
         /
         <Link className={styles.breadcrumbLink} to="/products">
+=======
+          Início
+        </Link>{" "}
+        /
+        <Link className={styles.breadcrumbLink} to="/produtos">
+>>>>>>> master
           Produtos
         </Link>{" "}
         /
@@ -91,7 +98,14 @@ const ViewProduct = () => {
         {/* 📝 Informações do produto */}
         <div className={styles.productInfo}>
           <h1>{product.title}</h1>
+<<<<<<< HEAD
           <p>{product.categoria} | Ref: RF-6547-5781</p>
+=======
+          <p>
+            {product.categoria}
+            {product.ref ? ` | Ref: ${product.ref}` : ""}
+          </p>
+>>>>>>> master
 
           <div className={styles.priceInfo}>
             <span className={styles.currentPrice}>R$ {product.price}</span>
